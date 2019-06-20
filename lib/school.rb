@@ -24,7 +24,7 @@ class School
     end
 end
 
-kbf
+
 
 # ||= if condition is true, create this array
 
